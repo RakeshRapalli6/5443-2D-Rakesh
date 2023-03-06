@@ -8,8 +8,8 @@ The wordle game is about guessing a five letter word and if the letters in your 
 
 |   #   | File      | Description                                  |
 | :---: | --------- | -------------------------------------------- |
-|   1   |
-|   2   |
+|   1   | [wordle.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/wordle.py)   | 
+|   2   | 
 |   3   |
 |   4   |
 |   5   |
