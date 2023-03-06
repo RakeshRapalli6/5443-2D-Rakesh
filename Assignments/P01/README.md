@@ -8,9 +8,19 @@ The wordle game is about guessing a five letter word and if the letters in your 
 
 |   #   | File      | Description                                  |
 | :---: | --------- | -------------------------------------------- |
-|   1   | [wordle.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/wordle.py)   | 
-|   2   | [words.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/words.py)     |
-|   3   | [song.mp3](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/song.mp3)     |
-|   4   | [hi.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/hi.png)         |
-|   5   |
+|   1   | [wordle.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/wordle.py)| Main program of the project to run the game|
+|   2   | [words.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/words.py)| contains the word list|
+|   3   | [song.mp3](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/song.mp3)| Music while playing game|
+|   4   | [hi.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/hi.png)| Welcome message| 
+|   5   | [game-controller.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/game-controller.png)| Contains image that stays during whole game|
+
+### Instructions
+
+- Type in a five letter word
+- Enter space after every word is entered
+- To clear the entered letter press 'Back space'
+- After every word the game will let you know if you are a winner or not
+
+### Screenshots
+
 
