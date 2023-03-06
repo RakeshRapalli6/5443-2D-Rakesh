@@ -23,6 +23,6 @@ The wordle game is about guessing a five letter word and if the letters in your 
 
 ### Screenshots
 
-![WelcomeScreen](<img width="520" alt="WelcomeScreen  png" src="https://user-images.githubusercontent.com/123696771/223259287-27a1c244-afd7-4459-94ef-e707ed7a9ba5.png">)
+![WelcomeScreen](![WelcomeScreen](https://user-images.githubusercontent.com/123696771/223261821-bda6cc44-b67a-4ad9-9c83-d69382b1d187.jpg)
 
 
