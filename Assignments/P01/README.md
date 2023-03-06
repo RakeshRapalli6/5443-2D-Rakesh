@@ -27,5 +27,8 @@ The wordle game is about guessing a five letter word and if the letters in your 
 
 ![wrong guess](https://user-images.githubusercontent.com/123696771/223262433-b7eb90b3-899a-48f5-b796-da6f816460a2.jpg)
 
+![CorrectGuess](https://user-images.githubusercontent.com/123696771/223263127-ce83e83b-2bb6-4087-8a0e-3bb96618a20d.jpg)
+
+
 
 
