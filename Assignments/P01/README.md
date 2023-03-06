@@ -23,6 +23,9 @@ The wordle game is about guessing a five letter word and if the letters in your 
 
 ### Screenshots
 
-![WelcomeScreen](![WelcomeScreen](https://user-images.githubusercontent.com/123696771/223261821-bda6cc44-b67a-4ad9-9c83-d69382b1d187.jpg)
+![WelcomeScreen](https://user-images.githubusercontent.com/123696771/223261821-bda6cc44-b67a-4ad9-9c83-d69382b1d187.jpg)
+
+![wrong guess](https://user-images.githubusercontent.com/123696771/223262433-b7eb90b3-899a-48f5-b796-da6f816460a2.jpg)
+
 
 
