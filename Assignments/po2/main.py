@@ -1,6 +1,5 @@
 import pygame
 import math
-import curses
 
 pygame.font.init()
 pygame.mixer.init()
