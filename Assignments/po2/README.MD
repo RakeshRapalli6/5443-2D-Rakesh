@@ -9,11 +9,10 @@ The main aim is to create a TwoPlayer Game-Projectile Dual where two players wil
 
 |   #   | File      | Description                                  |
 | :---: | --------- | -------------------------------------------- |
-|   1   | [wordle.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/wordle.py)| Main program of the project to run the game|
-|   2   | [words.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/words.py)| contains the word list|
-|   3   | [song.mp3](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/song.mp3)| Music while playing game|
-|   4   | [hi.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/hi.png)| Welcome message| 
-|   5   | [game-controller.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/game-controller.png)| Contains image that stays during whole game|
+|   1   | (main.py) [https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/main.py| Main program of the project to run the game|
+|   2   | | contains |
+|   3   | | 
+|   5   | 
  
 ### Instructions
 
