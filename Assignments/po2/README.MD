@@ -7,10 +7,13 @@ The main aim is to create a TwoPlayer Game-Projectile Dual where two players wil
 
 ### Files
 
-| https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/main.py | Main driver of my project that launches game |
-| https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/red_archery.png  | Contains the image of red archer |
-| https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/blue_archery.png | Contains the image of blue archer |
-| https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/battleground.png | contains the background image |
+|   #   | File      | Description                                  |
+| :---: | --------- | -------------------------------------------- |
+|   1   | [wordle.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/wordle.py)| Main program of the project to run the game|
+|   2   | [words.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/words.py)| contains the word list|
+|   3   | [song.mp3](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/song.mp3)| Music while playing game|
+|   4   | [hi.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/hi.png)| Welcome message| 
+|   5   | [game-controller.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P01/game-controller.png)| Contains image that stays during whole game|
  
 ### Instructions
 
