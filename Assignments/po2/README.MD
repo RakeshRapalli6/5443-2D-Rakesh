@@ -12,7 +12,7 @@ The main aim is to create a TwoPlayer Game-Projectile Dual where two players wil
 |   1   |[main.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/main.py)| Main program of the project to run the game|
 |   2   |[red_archery.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/red_archery.png)| Contains an image of red archer|
 |   3   |[blue_archery.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/blue_archery.png)| Contains an image of blue archer|
-|   4   |[back_ground.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/battleground.png)| Contains the background image |
+|   4   |[battleground.png](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/battleground.png)| Contains the background image |
  
 ### Instructions
 
