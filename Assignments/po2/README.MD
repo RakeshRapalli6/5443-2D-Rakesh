@@ -7,7 +7,7 @@ The main aim is to create a TwoPlayer Game-Projectile Dual where two players wil
 
 ### Files
 
-| Main driver of my project that launches game
+https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/main.py | Main driver of my project that launches game
 | Folder containing sprites of players(1 & 2)
 
 ### Instructions
