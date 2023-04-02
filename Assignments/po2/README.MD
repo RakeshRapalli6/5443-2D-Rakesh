@@ -8,9 +8,10 @@ The main aim is to create a TwoPlayer Game-Projectile Dual where two players wil
 ### Files
 
 https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/main.py | Main driver of my project that launches game
-https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/red_archery.png | Contains the image of red archer
+https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/red_archery.png  | Contains the image of red archer
 https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/blue_archery.png | Contains the image of blue archer
-
+https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/po2/battleground.png | contains the background image
+ 
 ### Instructions
 
 - Make sure to install library "pygame" and "math"
