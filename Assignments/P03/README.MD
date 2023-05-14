@@ -15,7 +15,7 @@ The main aim is to create a Multiplayer game dual. There are asteroids and space
 |:---:| ------- | ------------------------------------ |
 |  1  | [__main__.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P03/__main__.py) | Main driver of project that launches game |
 |  2  | [game.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P03/game.py) | Setting asteroids and spaceships |
-|  3  | [HealthBar.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/HealthBar.py) | Shows health bar when hits each other |
+|  3  | [HealthBar.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P03/HealthBar.py) | Shows health bar when hits each other |
 |  4  | [models.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/models.py) | Setting items values |
 |  5  | [ Scores.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/Scores.py) | Contains scores of the spaceships |
 |  6  | [startField.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/starField.py) | Adding buttons for movement |
