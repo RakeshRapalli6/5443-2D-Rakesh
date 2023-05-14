@@ -20,7 +20,7 @@ The main aim is to create a Multiplayer game dual. There are asteroids and space
 |  5  | [ Scores.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P03/Scores.py) | Contains scores of the spaceships |
 |  6  | [startField.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P03/starField.py) | Adding buttons for movement |
 |  7  | [user.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P03/user.py) | Contains users information |
-|  8  | [utils.py](https://github.com/ashrithap02/5443-2D-Parupati/blob/main/Assignments/P03/utils.py) | Contains calculation part for project |
+|  8  | [utils.py](https://github.com/RakeshRapalli6/5443-2D-Rakesh/blob/main/Assignments/P03/utils.py) | Contains calculation part for project |
 
 ### Instructions
 
