@@ -6,7 +6,7 @@
 
 ### Description
 
-The main aim of the project is to create Adventure - Collaborative game. Players and enemies hit each other for lives. We have added Ammo and Grenades which you can see at the top left corner.Health boxes are created to update lives of players. There are three levels for this project.
+The main aim of the project is to create Tile based game. Players and enemies hit each other for lives. We have added Ammo and Grenades which you can see at the top left corner.Health boxes are created to update lives of players. There are three levels for this project.
 
 
 ### Files
